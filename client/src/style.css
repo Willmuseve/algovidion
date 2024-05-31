@@ -1,0 +1,19 @@
+/* General Styles */
+body {
+    font-family: sans-serif;
+}
+
+.container {
+    display: flex;
+}
+
+.sidebar {
+    width: 250px;
+    padding: 20px;
+    background-color: #f0f0f0;
+}
+
+.visualization {
+    flex: 1;
+    padding: 20px;
+}
